@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+.venv/
+data/warehouse.duckdb
+data/warehouse.duckdb.wal
+.DS_Store
